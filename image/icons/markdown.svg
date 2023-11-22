@@ -1,0 +1,12 @@
+<svg width="65" height="64" viewBox="0 0 65 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="icon / tabler-icons / markdown" clip-path="url(#clip0_1_14135)">
+<path id="Vector" d="M50.9997 13.3334H13.6663C10.7208 13.3334 8.33301 15.7212 8.33301 18.6667V45.3334C8.33301 48.2789 10.7208 50.6667 13.6663 50.6667H50.9997C53.9452 50.6667 56.333 48.2789 56.333 45.3334V18.6667C56.333 15.7212 53.9452 13.3334 50.9997 13.3334Z" stroke="#A21CAF" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Vector_2" d="M19 40V24L24.3333 29.3333L29.6667 24V40" stroke="#A21CAF" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Vector_3" d="M42.9993 40V24M37.666 34.6667L42.9993 40L48.3327 34.6667H37.666Z" stroke="#A21CAF" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<defs>
+<clipPath id="clip0_1_14135">
+<rect width="64" height="64" fill="white" transform="translate(0.333008)"/>
+</clipPath>
+</defs>
+</svg>

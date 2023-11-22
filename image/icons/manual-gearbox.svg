@@ -1,0 +1,17 @@
+<svg width="65" height="64" viewBox="0 0 65 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="icon / tabler-icons / manual-gearbox" clip-path="url(#clip0_1_12962)">
+<path id="Vector" d="M13.6663 21.3333C16.6119 21.3333 18.9997 18.9455 18.9997 16C18.9997 13.0544 16.6119 10.6666 13.6663 10.6666C10.7208 10.6666 8.33301 13.0544 8.33301 16C8.33301 18.9455 10.7208 21.3333 13.6663 21.3333Z" stroke="#A21CAF" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Vector_2" d="M32.3333 21.3333C35.2789 21.3333 37.6667 18.9455 37.6667 16C37.6667 13.0544 35.2789 10.6666 32.3333 10.6666C29.3878 10.6666 27 13.0544 27 16C27 18.9455 29.3878 21.3333 32.3333 21.3333Z" stroke="#A21CAF" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Vector_3" d="M50.9993 21.3333C53.9449 21.3333 56.3327 18.9455 56.3327 16C56.3327 13.0544 53.9449 10.6666 50.9993 10.6666C48.0538 10.6666 45.666 13.0544 45.666 16C45.666 18.9455 48.0538 21.3333 50.9993 21.3333Z" stroke="#A21CAF" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Vector_4" d="M13.6663 53.3333C16.6119 53.3333 18.9997 50.9455 18.9997 48C18.9997 45.0544 16.6119 42.6666 13.6663 42.6666C10.7208 42.6666 8.33301 45.0544 8.33301 48C8.33301 50.9455 10.7208 53.3333 13.6663 53.3333Z" stroke="#A21CAF" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Vector_5" d="M32.3333 53.3333C35.2789 53.3333 37.6667 50.9455 37.6667 48C37.6667 45.0544 35.2789 42.6666 32.3333 42.6666C29.3878 42.6666 27 45.0544 27 48C27 50.9455 29.3878 53.3333 32.3333 53.3333Z" stroke="#A21CAF" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Vector_6" d="M13.666 21.3334V42.6667" stroke="#A21CAF" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Vector_7" d="M32.333 21.3334V42.6667" stroke="#A21CAF" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Vector_8" d="M50.9994 21.3334V26.6667C50.9994 28.0812 50.4374 29.4377 49.4373 30.4379C48.4371 31.4381 47.0805 32 45.666 32H13.666" stroke="#A21CAF" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<defs>
+<clipPath id="clip0_1_12962">
+<rect width="64" height="64" fill="white" transform="translate(0.333008)"/>
+</clipPath>
+</defs>
+</svg>

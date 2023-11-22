@@ -1,0 +1,13 @@
+<svg width="65" height="64" viewBox="0 0 65 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="icon / tabler-icons / layout-dashboard" clip-path="url(#clip0_1_14095)">
+<path id="Vector" d="M11.334 10.6666H27.334V32H11.334V10.6666Z" stroke="#A21CAF" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Vector_2" d="M11.334 42.6666H27.334V53.3333H11.334V42.6666Z" stroke="#A21CAF" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Vector_3" d="M38 32H54V53.3333H38V32Z" stroke="#A21CAF" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Vector_4" d="M38 10.6666H54V21.3333H38V10.6666Z" stroke="#A21CAF" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<defs>
+<clipPath id="clip0_1_14095">
+<rect width="64" height="64" fill="white" transform="translate(0.666992)"/>
+</clipPath>
+</defs>
+</svg>

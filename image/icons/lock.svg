@@ -1,0 +1,12 @@
+<svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="icon / tabler-icons / lock" clip-path="url(#clip0_1_14064)">
+<path id="Vector" d="M45.333 29.3334H18.6663C15.7208 29.3334 13.333 31.7212 13.333 34.6667V50.6667C13.333 53.6122 15.7208 56 18.6663 56H45.333C48.2785 56 50.6663 53.6122 50.6663 50.6667V34.6667C50.6663 31.7212 48.2785 29.3334 45.333 29.3334Z" stroke="#A21CAF" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Vector_2" d="M31.9997 45.3333C33.4724 45.3333 34.6663 44.1394 34.6663 42.6667C34.6663 41.1939 33.4724 40 31.9997 40C30.5269 40 29.333 41.1939 29.333 42.6667C29.333 44.1394 30.5269 45.3333 31.9997 45.3333Z" stroke="#A21CAF" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Vector_3" d="M21.333 29.3333V18.6667C21.333 15.8377 22.4568 13.1246 24.4572 11.1242C26.4576 9.12381 29.1707 8 31.9997 8C34.8287 8 37.5418 9.12381 39.5421 11.1242C41.5425 13.1246 42.6663 15.8377 42.6663 18.6667V29.3333" stroke="#A21CAF" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<defs>
+<clipPath id="clip0_1_14064">
+<rect width="64" height="64" fill="white"/>
+</clipPath>
+</defs>
+</svg>

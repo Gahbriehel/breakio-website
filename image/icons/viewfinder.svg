@@ -1,0 +1,15 @@
+<svg width="65" height="64" viewBox="0 0 65 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="icon / tabler-icons / viewfinder" clip-path="url(#clip0_1_12987)">
+<path id="Vector" d="M32.333 56C45.5878 56 56.333 45.2548 56.333 32C56.333 18.7452 45.5878 8 32.333 8C19.0782 8 8.33301 18.7452 8.33301 32C8.33301 45.2548 19.0782 56 32.333 56Z" stroke="#A21CAF" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Vector_2" d="M32.333 8V18.6667" stroke="#A21CAF" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Vector_3" d="M32.333 56V48" stroke="#A21CAF" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Vector_4" d="M8.33301 32H18.9997" stroke="#A21CAF" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Vector_5" d="M56.333 32H48.333" stroke="#A21CAF" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Vector_6" d="M32.333 32V32.0267" stroke="#A21CAF" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<defs>
+<clipPath id="clip0_1_12987">
+<rect width="64" height="64" fill="white" transform="translate(0.333008)"/>
+</clipPath>
+</defs>
+</svg>
